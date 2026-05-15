@@ -1,0 +1,6 @@
+{
+  "name": "Goober Games",
+  "description": "Unblocked web games platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

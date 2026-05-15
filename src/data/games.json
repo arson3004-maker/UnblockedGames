@@ -1,0 +1,51 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "The math-based puzzle sensation. Join the tiles and get to 2048!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced hexagonal puzzle game. Rotate the hex to match blocks.",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man Arcade",
+    "description": "The classic pellet-munching ghost-dodging arcade legend.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "flappy",
+    "title": "Retro Bird",
+    "description": "Tough as nails. Flap your way through the pipes without crashing.",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris Classic",
+    "description": "The world's favorite block-stacking puzzle game.",
+    "url": "https://en.wikipedia.org/wiki/Tetris",
+    "thumbnail": "https://images.unsplash.com/photo-1585675100414-add2e465a136?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "snake",
+    "title": "Google Snake",
+    "description": "Grow your snake and avoid hitting the walls in this modern classic.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "crossy",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road? Find out in this endless hopper.",
+    "url": "https://poki.com/en/g/crossy-road",
+    "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=800&auto=format&fit=crop"
+  }
+]
